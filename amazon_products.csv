@@ -1,0 +1,1001 @@
+product_id,product_name,category,actual_price,discounted_price,discount_percentage,rating,rating_count
+P0001,Premium Action Figure,Toys,40.58,29.22,28,1.7,5191
+P0002,Advanced Board Game,Toys,61.87,38.36,38,2.8,4426
+P0003,Eco-friendly Novel,Books,25.67,16.69,35,1.6,8322
+P0004,Lightweight Action Figure,Toys,6.96,6.89,1,3.9,6949
+P0005,Durable Yoga Mat,Sports,20.37,16.3,20,3.5,3385
+P0006,Premium Smartphone,Electronics,1097.04,833.75,24,2.2,9274
+P0007,Lightweight Textbook,Books,22.99,16.78,27,4.9,9998
+P0008,Lightweight Smartphone,Electronics,966.53,947.2,2,4.4,8838
+P0009,Lightweight Doll,Toys,21.2,13.14,38,1.1,8792
+P0010,Affordable Textbook,Books,48.45,44.57,8,1.1,7041
+P0011,Amazing Jeans,Clothing,105.79,99.44,6,3.4,775
+P0012,Durable Puzzle,Toys,8.27,7.19,13,2.6,1585
+P0013,Eco-friendly Jeans,Clothing,102.75,101.72,1,2.7,3843
+P0014,Stylish Shampoo,Beauty,21.31,17.69,17,4.1,161
+P0015,Durable Laptop,Electronics,850.79,553.01,35,3.4,7629
+P0016,Stylish Dress,Clothing,37.44,22.84,39,4.4,7916
+P0017,Amazing Sweater,Clothing,47.99,36.95,23,2.4,4859
+P0018,Premium Tent,Sports,311.38,186.83,40,2.2,64
+P0019,Lightweight Headphones,Electronics,129.71,119.33,8,4.1,2027
+P0020,Ergonomic Lipstick,Beauty,29.13,26.22,10,1.8,391
+P0021,Compact Yoga Mat,Sports,369.92,251.55,32,3.4,3561
+P0022,Compact Headphones,Electronics,781.08,468.65,40,4.7,8392
+P0023,Compact Laptop,Electronics,1284.27,860.46,33,1.4,2454
+P0024,Advanced Pan,Home & Kitchen,205.62,131.6,36,3.9,8154
+P0025,Stylish Board Game,Toys,58.32,38.49,34,1.5,3840
+P0026,Stylish Jeans,Clothing,111.04,96.6,13,3.0,4488
+P0027,Advanced Action Figure,Toys,72.51,54.38,25,1.1,1484
+P0028,Eco-friendly Soccer Ball,Sports,116.83,80.61,31,3.5,8755
+P0029,Compact Board Game,Toys,58.51,56.75,3,4.6,7574
+P0030,Durable Pillow,Home & Kitchen,187.26,161.04,14,4.0,1059
+P0031,Lightweight Board Game,Toys,94.57,88.9,6,2.2,3157
+P0032,Stylish Action Figure,Toys,88.64,84.21,5,2.8,3627
+P0033,Amazing Biography,Books,23.74,21.37,10,2.3,5592
+P0034,Advanced Blender,Home & Kitchen,105.63,71.83,32,2.1,1306
+P0035,Ergonomic Biography,Books,24.22,21.31,12,4.4,7526
+P0036,Affordable Guide,Books,12.41,9.18,26,2.7,3748
+P0037,Affordable Board Game,Toys,70.78,54.5,23,4.8,1495
+P0038,Eco-friendly Jeans,Clothing,108.42,96.49,11,2.0,7554
+P0039,Lightweight Car,Toys,33.58,28.21,16,2.1,4737
+P0040,Ergonomic Sweater,Clothing,67.55,52.69,22,2.1,7392
+P0041,Durable Bicycle,Sports,324.49,321.25,1,3.1,5791
+P0042,Eco-friendly Textbook,Books,29.88,28.98,3,1.3,4218
+P0043,Premium Blender,Home & Kitchen,84.02,52.93,37,2.5,2931
+P0044,Premium Moisturizer,Beauty,78.81,62.26,21,3.1,6287
+P0045,Eco-friendly Doll,Toys,84.35,80.13,5,3.8,9986
+P0046,Premium Tent,Sports,303.63,197.36,35,1.1,1986
+P0047,Ergonomic Pan,Home & Kitchen,245.71,199.03,19,3.6,1843
+P0048,Advanced Soccer Ball,Sports,471.45,287.58,39,2.5,2385
+P0049,Amazing Shampoo,Beauty,68.32,61.49,10,2.4,6616
+P0050,Lightweight Puzzle,Toys,24.86,17.4,30,4.5,262
+P0051,Stylish Shampoo,Beauty,55.52,41.64,25,4.9,2049
+P0052,Durable Jeans,Clothing,149.48,133.04,11,3.2,7158
+P0053,Amazing Pillow,Home & Kitchen,111.62,73.67,34,3.8,2255
+P0054,Eco-friendly Soccer Ball,Sports,450.61,346.97,23,2.6,9888
+P0055,Advanced Camera,Electronics,1319.86,1187.87,10,4.7,5539
+P0056,Compact Dumbbell,Sports,451.31,365.56,19,3.3,2557
+P0057,Eco-friendly Dress,Clothing,141.62,107.63,24,1.0,4973
+P0058,Lightweight Shampoo,Beauty,47.51,31.36,34,3.6,8352
+P0059,Stylish Tent,Sports,28.68,24.95,13,2.3,3987
+P0060,Premium Headphones,Electronics,796.29,740.55,7,4.4,4496
+P0061,Advanced Moisturizer,Beauty,30.18,26.86,11,3.0,3446
+P0062,Compact Camera,Electronics,575.88,408.87,29,4.9,3436
+P0063,Premium Tablet,Electronics,1024.81,953.07,7,3.5,225
+P0064,Premium Face Wash,Beauty,33.21,22.58,32,3.3,9151
+P0065,Eco-friendly Moisturizer,Beauty,70.22,57.58,18,3.3,7679
+P0066,Affordable Car,Toys,21.83,15.94,27,2.9,1069
+P0067,Advanced Textbook,Books,46.17,30.47,34,4.0,1060
+P0068,Ergonomic Perfume,Beauty,74.84,52.39,30,4.9,5088
+P0069,Lightweight Cookbook,Books,8.39,6.71,20,1.8,1184
+P0070,Advanced Doll,Toys,35.11,29.14,17,3.2,5854
+P0071,Stylish Doll,Toys,85.2,83.5,2,3.3,3863
+P0072,Affordable Yoga Mat,Sports,120.28,95.02,21,2.4,7806
+P0073,Compact Novel,Books,28.32,28.04,1,2.3,8096
+P0074,Amazing Dress,Clothing,29.13,18.06,38,2.2,2806
+P0075,Compact Soccer Ball,Sports,221.49,168.33,24,3.4,6971
+P0076,Amazing Novel,Books,28.01,18.21,35,4.2,2368
+P0077,Amazing Board Game,Toys,11.74,9.98,15,1.2,6002
+P0078,Amazing Headphones,Electronics,742.19,541.8,27,3.3,5919
+P0079,Lightweight Smartphone,Electronics,1198.73,947.0,21,2.3,3769
+P0080,Affordable Jeans,Clothing,85.97,67.92,21,3.4,7509
+P0081,Eco-friendly Soccer Ball,Sports,140.12,133.11,5,2.2,2491
+P0082,Affordable Dumbbell,Sports,176.79,164.41,7,4.1,3051
+P0083,Affordable Perfume,Beauty,77.5,48.05,38,1.3,876
+P0084,Premium Novel,Books,13.75,9.76,29,3.2,6966
+P0085,Durable Puzzle,Toys,18.14,15.42,15,4.9,635
+P0086,Durable Pan,Home & Kitchen,218.66,179.3,18,4.2,830
+P0087,Amazing Shampoo,Beauty,39.21,29.41,25,1.1,8308
+P0088,Durable Headphones,Electronics,253.66,233.37,8,3.8,1664
+P0089,Premium Moisturizer,Beauty,20.48,20.48,0,2.8,7805
+P0090,Compact Textbook,Books,9.22,7.01,24,3.6,3343
+P0091,Eco-friendly Pan,Home & Kitchen,162.26,155.77,4,3.4,8130
+P0092,Advanced Guide,Books,16.15,13.73,15,1.6,7253
+P0093,Premium Guide,Books,5.65,4.92,13,1.4,2141
+P0094,Lightweight Shampoo,Beauty,69.59,66.81,4,2.9,6617
+P0095,Lightweight Laptop,Electronics,1034.07,641.12,38,2.4,7421
+P0096,Compact Smartphone,Electronics,924.32,720.97,22,1.2,2849
+P0097,Affordable Pan,Home & Kitchen,89.35,81.31,9,3.5,2489
+P0098,Durable Novel,Books,27.55,26.45,4,3.7,2839
+P0099,Durable Novel,Books,47.48,47.01,1,1.1,9087
+P0100,Advanced Pan,Home & Kitchen,196.38,159.07,19,3.3,6833
+P0101,Durable Dress,Clothing,90.27,61.38,32,2.8,2738
+P0102,Affordable Board Game,Toys,82.96,73.83,11,2.5,5536
+P0103,Advanced Cookbook,Books,34.32,24.71,28,1.3,5726
+P0104,Ergonomic Camera,Electronics,816.79,539.08,34,2.3,8967
+P0105,Stylish Laptop,Electronics,832.25,757.35,9,1.1,417
+P0106,Ergonomic Tablet,Electronics,595.32,559.6,6,1.5,7668
+P0107,Lightweight Dumbbell,Sports,187.2,168.48,10,4.5,7587
+P0108,Lightweight Laptop,Electronics,894.1,581.17,35,1.7,2504
+P0109,Eco-friendly Shampoo,Beauty,48.93,32.29,34,5.0,4079
+P0110,Premium Dumbbell,Sports,81.29,50.4,38,3.3,6806
+P0111,Premium Lamp,Home & Kitchen,280.27,179.37,36,2.0,3766
+P0112,Ergonomic Textbook,Books,38.79,29.48,24,2.0,5917
+P0113,Ergonomic Laptop,Electronics,1814.85,1470.03,19,4.3,1365
+P0114,Ergonomic Lamp,Home & Kitchen,99.83,81.86,18,2.6,395
+P0115,Stylish Bicycle,Sports,480.1,393.68,18,1.4,2502
+P0116,Stylish Cookbook,Books,48.06,33.64,30,4.8,4946
+P0117,Durable Jeans,Clothing,79.02,67.17,15,2.8,7266
+P0118,Advanced Doll,Toys,62.23,49.78,20,4.0,1167
+P0119,Premium T-Shirt,Clothing,120.55,74.74,38,5.0,4729
+P0120,Ergonomic Lamp,Home & Kitchen,140.84,109.86,22,3.2,8010
+P0121,Premium Camera,Electronics,322.43,286.96,11,3.8,953
+P0122,Lightweight Biography,Books,32.82,20.68,37,1.3,1191
+P0123,Stylish Novel,Books,8.27,6.12,26,3.8,1540
+P0124,Stylish Biography,Books,28.1,17.7,37,4.9,9580
+P0125,Affordable Textbook,Books,21.68,18.21,16,4.8,4312
+P0126,Advanced Car,Toys,61.23,39.8,35,2.5,3486
+P0127,Lightweight Shampoo,Beauty,42.68,26.46,38,2.7,5977
+P0128,Lightweight Puzzle,Toys,36.37,35.64,2,2.0,4849
+P0129,Premium Board Game,Toys,49.52,40.11,19,1.5,9086
+P0130,Premium T-Shirt,Clothing,100.89,100.89,0,3.7,504
+P0131,Lightweight Board Game,Toys,40.61,30.86,24,4.5,5029
+P0132,Advanced Dress,Clothing,71.09,49.05,31,3.2,4910
+P0133,Stylish Cookbook,Books,45.1,36.08,20,5.0,5348
+P0134,Advanced Car,Toys,29.03,23.8,18,4.9,6190
+P0135,Advanced Blender,Home & Kitchen,194.38,169.11,13,2.2,3584
+P0136,Durable Headphones,Electronics,1292.36,1266.51,2,4.6,8120
+P0137,Amazing Headphones,Electronics,1838.98,1673.47,9,4.8,5063
+P0138,Eco-friendly Lipstick,Beauty,36.41,28.04,23,3.5,9337
+P0139,Affordable Textbook,Books,13.47,10.1,25,2.6,7483
+P0140,Durable Car,Toys,60.45,44.13,27,2.4,4835
+P0141,Premium Laptop,Electronics,1973.8,1657.99,16,2.1,6132
+P0142,Eco-friendly Car,Toys,82.31,60.09,27,2.1,1581
+P0143,Stylish Camera,Electronics,244.78,232.54,5,4.8,255
+P0144,Eco-friendly Tent,Sports,298.96,227.21,24,2.7,2871
+P0145,Amazing Biography,Books,44.45,42.67,4,1.1,2193
+P0146,Amazing Jacket,Clothing,148.22,133.4,10,3.4,4158
+P0147,Compact Novel,Books,22.68,16.78,26,3.3,4000
+P0148,Lightweight Sweater,Clothing,75.62,49.91,34,1.5,404
+P0149,Eco-friendly Dumbbell,Sports,47.06,44.71,5,3.8,9860
+P0150,Eco-friendly Moisturizer,Beauty,79.76,62.21,22,4.1,4809
+P0151,Amazing Toaster,Home & Kitchen,257.15,216.01,16,2.0,6600
+P0152,Stylish Doll,Toys,17.27,15.2,12,1.8,4544
+P0153,Compact Lipstick,Beauty,56.36,38.89,31,1.2,7239
+P0154,Premium Guide,Books,6.0,4.02,33,2.9,770
+P0155,Amazing Perfume,Beauty,45.45,40.45,11,4.3,8427
+P0156,Compact Guide,Books,30.24,21.47,29,4.2,6544
+P0157,Advanced Jeans,Clothing,28.76,22.43,22,4.0,6996
+P0158,Amazing Cookbook,Books,33.77,30.39,10,1.9,6881
+P0159,Stylish Pillow,Home & Kitchen,114.92,77.0,33,3.5,9550
+P0160,Premium Lipstick,Beauty,39.5,26.46,33,2.4,4261
+P0161,Lightweight Sweater,Clothing,73.13,62.89,14,2.6,4854
+P0162,Lightweight Puzzle,Toys,54.74,45.98,16,4.8,7043
+P0163,Premium Headphones,Electronics,972.76,817.12,16,3.0,3579
+P0164,Ergonomic Biography,Books,7.98,7.66,4,4.9,5569
+P0165,Premium Camera,Electronics,724.63,652.17,10,1.3,760
+P0166,Stylish Pillow,Home & Kitchen,146.13,124.21,15,1.6,6031
+P0167,Ergonomic Lamp,Home & Kitchen,197.65,120.57,39,3.8,8472
+P0168,Durable Camera,Electronics,1803.9,1767.82,2,3.1,671
+P0169,Advanced Novel,Books,12.75,10.46,18,4.3,5585
+P0170,Durable Action Figure,Toys,31.47,24.86,21,1.4,6376
+P0171,Lightweight Dumbbell,Sports,190.88,127.89,33,1.5,9945
+P0172,Durable T-Shirt,Clothing,106.66,98.13,8,1.4,6190
+P0173,Stylish Car,Toys,64.65,45.9,29,1.6,4143
+P0174,Premium Jacket,Clothing,18.55,13.91,25,4.5,1276
+P0175,Advanced Tent,Sports,493.4,389.79,21,1.9,8150
+P0176,Durable Jacket,Clothing,84.38,83.54,1,4.0,4621
+P0177,Eco-friendly Dumbbell,Sports,90.91,85.46,6,3.7,918
+P0178,Durable Toaster,Home & Kitchen,160.83,133.49,17,2.8,6882
+P0179,Ergonomic Bicycle,Sports,210.64,160.09,24,3.9,8905
+P0180,Lightweight Blender,Home & Kitchen,175.73,147.61,16,1.8,7641
+P0181,Advanced Jeans,Clothing,84.95,64.56,24,4.6,6168
+P0182,Ergonomic Lamp,Home & Kitchen,208.54,204.37,2,3.6,9361
+P0183,Stylish Doll,Toys,13.26,10.48,21,3.3,7943
+P0184,Affordable Toaster,Home & Kitchen,182.16,149.37,18,2.5,2739
+P0185,Affordable Dumbbell,Sports,330.04,221.13,33,2.0,876
+P0186,Premium Puzzle,Toys,36.38,24.74,32,1.0,1733
+P0187,Ergonomic Bicycle,Sports,195.37,189.51,3,4.4,3517
+P0188,Compact Headphones,Electronics,641.68,449.18,30,1.2,9352
+P0189,Compact Cookbook,Books,8.61,6.03,30,2.6,9111
+P0190,Amazing Smartphone,Electronics,312.87,309.74,1,3.3,8195
+P0191,Ergonomic Blender,Home & Kitchen,16.51,11.72,29,1.7,5560
+P0192,Durable Lamp,Home & Kitchen,219.76,197.78,10,3.3,6316
+P0193,Durable Guide,Books,39.63,37.65,5,4.9,8915
+P0194,Compact Toaster,Home & Kitchen,159.67,142.11,11,1.5,6233
+P0195,Amazing Action Figure,Toys,77.94,49.1,37,3.3,4234
+P0196,Durable Moisturizer,Beauty,75.11,66.1,12,3.1,3744
+P0197,Lightweight Guide,Books,21.62,19.67,9,3.2,9865
+P0198,Lightweight Smartphone,Electronics,1980.92,1743.21,12,3.7,1619
+P0199,Premium Perfume,Beauty,26.33,16.85,36,1.0,2824
+P0200,Affordable Textbook,Books,31.8,24.49,23,3.4,3490
+P0201,Ergonomic Bicycle,Sports,187.46,179.96,4,4.3,235
+P0202,Affordable Face Wash,Beauty,37.41,33.67,10,4.8,2635
+P0203,Lightweight Perfume,Beauty,35.3,35.3,0,4.0,5951
+P0204,Lightweight Perfume,Beauty,64.27,57.84,10,4.2,6413
+P0205,Affordable Guide,Books,40.98,27.05,34,1.7,2898
+P0206,Compact Jacket,Clothing,103.13,77.35,25,4.6,600
+P0207,Lightweight Perfume,Beauty,71.16,54.08,24,3.7,9510
+P0208,Compact Puzzle,Toys,72.81,50.24,31,2.9,6565
+P0209,Premium Pillow,Home & Kitchen,168.84,145.2,14,3.3,2192
+P0210,Advanced Biography,Books,45.48,45.03,1,3.2,3687
+P0211,Lightweight T-Shirt,Clothing,42.06,26.08,38,1.5,5765
+P0212,Eco-friendly Cookbook,Books,19.98,18.58,7,3.8,7667
+P0213,Eco-friendly Toaster,Home & Kitchen,241.3,173.74,28,3.0,8669
+P0214,Durable Tablet,Electronics,1798.4,1168.96,35,5.0,1120
+P0215,Lightweight Sweater,Clothing,108.98,80.65,26,4.0,5373
+P0216,Amazing Toaster,Home & Kitchen,73.3,72.57,1,4.0,1865
+P0217,Durable Perfume,Beauty,32.63,20.56,37,3.1,6371
+P0218,Ergonomic Shampoo,Beauty,40.9,35.17,14,4.2,2371
+P0219,Ergonomic Perfume,Beauty,60.0,59.4,1,1.0,2674
+P0220,Amazing Pillow,Home & Kitchen,212.78,138.31,35,3.9,2116
+P0221,Durable Sweater,Clothing,125.75,114.43,9,2.4,6166
+P0222,Lightweight Soccer Ball,Sports,241.76,215.17,11,4.6,7783
+P0223,Affordable Cookbook,Books,27.76,21.1,24,2.0,9831
+P0224,Durable Sweater,Clothing,132.1,117.57,11,1.4,3876
+P0225,Durable Headphones,Electronics,1443.75,1053.94,27,2.5,6024
+P0226,Durable Board Game,Toys,45.29,32.61,28,1.4,3368
+P0227,Affordable Moisturizer,Beauty,74.64,58.22,22,1.5,5732
+P0228,Lightweight Yoga Mat,Sports,492.72,320.27,35,1.5,2872
+P0229,Ergonomic Lamp,Home & Kitchen,109.66,66.89,39,3.4,7112
+P0230,Amazing Action Figure,Toys,75.7,68.89,9,4.2,4212
+P0231,Durable Board Game,Toys,62.35,41.15,34,2.6,536
+P0232,Affordable Moisturizer,Beauty,70.17,44.21,37,2.4,8666
+P0233,Advanced Tablet,Electronics,1501.25,1261.05,16,3.3,9146
+P0234,Compact Sweater,Clothing,73.34,56.47,23,3.3,5299
+P0235,Stylish Sweater,Clothing,68.65,52.86,23,2.2,4380
+P0236,Durable Jacket,Clothing,91.28,72.11,21,1.9,5588
+P0237,Premium Perfume,Beauty,45.09,37.88,16,4.8,688
+P0238,Lightweight Laptop,Electronics,1158.88,915.52,21,1.3,9916
+P0239,Compact T-Shirt,Clothing,35.82,33.67,6,3.4,9181
+P0240,Amazing Shampoo,Beauty,62.0,50.84,18,2.4,2717
+P0241,Compact Novel,Books,13.58,9.78,28,2.9,7186
+P0242,Eco-friendly Dumbbell,Sports,51.54,44.84,13,3.9,6645
+P0243,Affordable Novel,Books,24.83,17.63,29,3.2,4926
+P0244,Compact Tent,Sports,69.43,64.57,7,4.4,8038
+P0245,Advanced Puzzle,Toys,76.56,69.67,9,2.1,6305
+P0246,Ergonomic Textbook,Books,23.39,18.24,22,4.9,3462
+P0247,Premium Board Game,Toys,67.6,67.6,0,3.2,5954
+P0248,Premium Dress,Clothing,42.35,39.39,7,1.4,3310
+P0249,Advanced Camera,Electronics,1181.94,803.72,32,3.2,7970
+P0250,Durable Doll,Toys,28.1,24.45,13,3.4,2538
+P0251,Compact Action Figure,Toys,96.45,61.73,36,1.6,5005
+P0252,Compact Yoga Mat,Sports,160.71,133.39,17,1.1,8966
+P0253,Advanced Car,Toys,74.91,59.93,20,1.1,3452
+P0254,Premium Face Wash,Beauty,71.1,51.19,28,2.7,8705
+P0255,Amazing Lipstick,Beauty,73.56,70.62,4,2.4,4841
+P0256,Durable Bicycle,Sports,416.05,407.73,2,3.4,4491
+P0257,Lightweight Headphones,Electronics,1678.24,1074.07,36,2.6,7083
+P0258,Durable Tablet,Electronics,517.07,408.49,21,4.1,2679
+P0259,Durable Headphones,Electronics,1972.2,1538.32,22,4.2,2768
+P0260,Affordable Board Game,Toys,51.05,42.88,16,2.1,2599
+P0261,Eco-friendly Lamp,Home & Kitchen,214.17,162.77,24,2.0,5877
+P0262,Advanced Car,Toys,66.28,64.29,3,1.5,8996
+P0263,Lightweight Perfume,Beauty,9.32,7.74,17,3.1,5475
+P0264,Durable Lamp,Home & Kitchen,156.96,105.16,33,3.2,7141
+P0265,Stylish Jeans,Clothing,126.16,98.4,22,1.4,341
+P0266,Premium Lipstick,Beauty,17.86,12.5,30,4.5,4263
+P0267,Compact Pan,Home & Kitchen,86.46,81.27,6,3.3,2969
+P0268,Ergonomic Tent,Sports,214.1,211.96,1,1.7,1386
+P0269,Amazing Sweater,Clothing,35.81,23.28,35,4.1,4124
+P0270,Stylish Moisturizer,Beauty,36.03,21.98,39,2.7,6819
+P0271,Compact Pillow,Home & Kitchen,219.93,136.36,38,3.4,1333
+P0272,Advanced Lipstick,Beauty,42.28,32.56,23,4.7,6212
+P0273,Ergonomic Jacket,Clothing,77.73,50.52,35,3.2,1762
+P0274,Amazing Soccer Ball,Sports,423.93,356.1,16,3.0,6122
+P0275,Premium Cookbook,Books,20.04,15.03,25,2.9,2120
+P0276,Durable Doll,Toys,12.14,10.2,16,2.7,60
+P0277,Compact Tent,Sports,350.43,266.33,24,2.0,1252
+P0278,Affordable Doll,Toys,5.22,3.71,29,1.0,6667
+P0279,Amazing Shampoo,Beauty,33.99,28.55,16,4.8,7982
+P0280,Compact Sweater,Clothing,22.14,18.82,15,4.5,5895
+P0281,Compact Puzzle,Toys,65.7,55.19,16,3.6,2421
+P0282,Ergonomic Puzzle,Toys,65.54,60.95,7,2.0,5387
+P0283,Lightweight Lamp,Home & Kitchen,78.04,58.53,25,1.2,8238
+P0284,Durable Dress,Clothing,16.18,13.75,15,4.7,5913
+P0285,Stylish Sweater,Clothing,89.51,84.14,6,1.1,8820
+P0286,Advanced Jacket,Clothing,112.34,104.48,7,4.9,1500
+P0287,Premium Cookbook,Books,26.34,18.7,29,1.2,3042
+P0288,Premium Dress,Clothing,54.67,33.9,38,1.1,9374
+P0289,Eco-friendly Moisturizer,Beauty,34.26,22.95,33,4.5,2983
+P0290,Affordable Biography,Books,24.85,19.38,22,1.3,7694
+P0291,Ergonomic Car,Toys,81.38,78.94,3,4.2,920
+P0292,Advanced Yoga Mat,Sports,374.17,254.44,32,4.5,9323
+P0293,Compact Lipstick,Beauty,24.77,16.35,34,4.5,4346
+P0294,Stylish Cookbook,Books,44.36,39.04,12,2.5,3810
+P0295,Amazing Dress,Clothing,19.8,14.26,28,4.1,8436
+P0296,Advanced Novel,Books,26.59,22.6,15,4.5,9454
+P0297,Lightweight Headphones,Electronics,856.75,608.29,29,2.7,3430
+P0298,Eco-friendly Doll,Toys,54.64,54.64,0,2.0,2050
+P0299,Amazing Camera,Electronics,987.89,701.4,29,4.4,145
+P0300,Affordable Sweater,Clothing,42.71,32.46,24,2.1,8173
+P0301,Stylish Toaster,Home & Kitchen,27.85,23.95,14,2.5,7511
+P0302,Advanced Tablet,Electronics,336.43,215.32,36,4.1,9130
+P0303,Premium Tablet,Electronics,1218.25,755.31,38,4.5,8202
+P0304,Premium Lamp,Home & Kitchen,272.56,182.62,33,1.7,5690
+P0305,Amazing Board Game,Toys,43.15,31.07,28,3.6,9076
+P0306,Ergonomic Biography,Books,42.38,38.57,9,1.2,824
+P0307,Compact Laptop,Electronics,518.92,508.54,2,4.3,1796
+P0308,Durable Soccer Ball,Sports,322.29,251.39,22,4.5,1913
+P0309,Ergonomic Dumbbell,Sports,272.02,179.53,34,4.0,7312
+P0310,Lightweight Perfume,Beauty,19.08,13.17,31,2.9,4876
+P0311,Affordable Pillow,Home & Kitchen,78.79,59.88,24,3.4,1933
+P0312,Ergonomic Perfume,Beauty,69.93,62.94,10,4.5,7490
+P0313,Ergonomic Dress,Clothing,48.21,34.71,28,4.6,5016
+P0314,Ergonomic Laptop,Electronics,1719.17,1581.64,8,2.3,9752
+P0315,Compact Moisturizer,Beauty,47.66,31.93,33,2.6,974
+P0316,Premium Jeans,Clothing,10.71,10.28,4,1.2,9105
+P0317,Eco-friendly Textbook,Books,8.65,7.61,12,4.6,5068
+P0318,Eco-friendly Laptop,Electronics,1717.29,1047.55,39,4.5,317
+P0319,Affordable Lamp,Home & Kitchen,183.84,180.16,2,2.4,6183
+P0320,Advanced Blender,Home & Kitchen,176.23,119.84,32,4.5,7314
+P0321,Advanced Biography,Books,44.07,32.17,27,4.4,1704
+P0322,Affordable Action Figure,Toys,36.73,27.91,24,4.7,4286
+P0323,Compact Puzzle,Toys,71.4,67.12,6,4.5,556
+P0324,Ergonomic Moisturizer,Beauty,70.77,49.54,30,4.3,7561
+P0325,Premium Lamp,Home & Kitchen,248.68,176.56,29,4.6,2403
+P0326,Eco-friendly Biography,Books,30.03,26.43,12,3.0,294
+P0327,Eco-friendly Shampoo,Beauty,21.91,19.28,12,3.5,1136
+P0328,Eco-friendly Headphones,Electronics,1163.7,709.86,39,2.0,4543
+P0329,Ergonomic Bicycle,Sports,279.19,184.27,34,1.5,5352
+P0330,Premium Pan,Home & Kitchen,289.45,211.3,27,3.5,9437
+P0331,Advanced Doll,Toys,76.6,60.51,21,4.7,1887
+P0332,Lightweight Dress,Clothing,117.92,114.38,3,2.2,1040
+P0333,Affordable Blender,Home & Kitchen,234.73,197.17,16,3.3,2752
+P0334,Amazing Tent,Sports,47.8,39.67,17,4.5,4799
+P0335,Stylish Car,Toys,69.22,61.61,11,4.0,5346
+P0336,Amazing T-Shirt,Clothing,93.22,82.97,11,1.1,9098
+P0337,Ergonomic Textbook,Books,41.97,36.09,14,4.3,9645
+P0338,Advanced Camera,Electronics,990.22,960.51,3,2.7,6540
+P0339,Eco-friendly Tablet,Electronics,1723.0,1481.78,14,4.2,1098
+P0340,Affordable Bicycle,Sports,125.97,124.71,1,4.1,3155
+P0341,Ergonomic Guide,Books,34.45,25.49,26,4.5,988
+P0342,Affordable Action Figure,Toys,94.64,80.44,15,4.4,4179
+P0343,Stylish Pan,Home & Kitchen,128.31,123.18,4,4.9,7424
+P0344,Stylish T-Shirt,Clothing,54.9,34.59,37,1.9,1980
+P0345,Eco-friendly Lipstick,Beauty,22.43,17.05,24,3.9,5390
+P0346,Affordable Pillow,Home & Kitchen,149.39,110.55,26,4.9,6573
+P0347,Durable Car,Toys,24.35,17.53,28,4.1,8782
+P0348,Affordable Laptop,Electronics,962.02,904.3,6,3.5,959
+P0349,Advanced Jacket,Clothing,51.18,39.41,23,4.7,2946
+P0350,Durable Camera,Electronics,452.37,389.04,14,2.9,1875
+P0351,Amazing Face Wash,Beauty,38.98,24.56,37,1.9,7099
+P0352,Durable Blender,Home & Kitchen,33.3,32.97,1,4.2,8586
+P0353,Lightweight Biography,Books,49.3,41.41,16,1.0,8465
+P0354,Affordable Tent,Sports,346.62,287.69,17,2.9,8357
+P0355,Amazing Moisturizer,Beauty,29.0,22.04,24,4.4,4197
+P0356,Lightweight Jeans,Clothing,137.09,123.38,10,2.9,9768
+P0357,Affordable Sweater,Clothing,43.89,30.28,31,1.1,2720
+P0358,Amazing Camera,Electronics,1163.33,802.7,31,4.8,8032
+P0359,Compact Moisturizer,Beauty,45.28,30.79,32,4.5,1949
+P0360,Lightweight T-Shirt,Clothing,14.65,10.99,25,2.6,7014
+P0361,Durable Yoga Mat,Sports,116.41,100.11,14,1.8,9078
+P0362,Premium Guide,Books,35.17,21.45,39,3.5,6082
+P0363,Eco-friendly Tablet,Electronics,1802.82,1658.59,8,4.7,9631
+P0364,Advanced Car,Toys,33.39,29.72,11,4.5,9905
+P0365,Advanced Doll,Toys,64.4,52.16,19,2.4,8442
+P0366,Affordable Perfume,Beauty,42.88,38.59,10,4.6,899
+P0367,Affordable Textbook,Books,31.89,25.19,21,2.8,514
+P0368,Durable Cookbook,Books,6.83,5.94,13,1.3,7179
+P0369,Lightweight Dumbbell,Sports,138.61,121.98,12,2.9,1266
+P0370,Premium Lipstick,Beauty,23.78,15.46,35,4.0,2356
+P0371,Durable Lipstick,Beauty,55.43,46.01,17,1.1,661
+P0372,Lightweight Lipstick,Beauty,31.93,19.16,40,3.0,8946
+P0373,Amazing Lipstick,Beauty,56.98,41.03,28,2.7,352
+P0374,Advanced Car,Toys,84.84,60.24,29,4.8,956
+P0375,Affordable Dumbbell,Sports,426.2,272.77,36,2.4,9579
+P0376,Lightweight Pan,Home & Kitchen,233.8,180.03,23,3.2,4703
+P0377,Stylish Dress,Clothing,92.33,61.86,33,2.9,9633
+P0378,Lightweight Perfume,Beauty,65.09,40.36,38,2.1,1394
+P0379,Stylish Toaster,Home & Kitchen,95.9,85.35,11,2.5,529
+P0380,Compact Car,Toys,65.0,55.9,14,1.9,3591
+P0381,Compact Pan,Home & Kitchen,130.51,92.66,29,1.7,9131
+P0382,Stylish Tablet,Electronics,808.41,800.33,1,1.7,4648
+P0383,Durable Doll,Toys,28.49,24.79,13,3.1,3155
+P0384,Eco-friendly Doll,Toys,61.33,58.26,5,3.6,8219
+P0385,Eco-friendly Camera,Electronics,590.45,377.89,36,1.0,5543
+P0386,Stylish Yoga Mat,Sports,307.38,199.8,35,4.9,3374
+P0387,Affordable Shampoo,Beauty,24.9,22.66,9,1.3,269
+P0388,Affordable Yoga Mat,Sports,178.83,128.76,28,2.3,3432
+P0389,Eco-friendly Doll,Toys,45.93,37.2,19,3.4,7115
+P0390,Eco-friendly Shampoo,Beauty,58.89,47.7,19,2.5,3178
+P0391,Advanced Pillow,Home & Kitchen,224.87,143.92,36,3.1,3568
+P0392,Durable Yoga Mat,Sports,358.59,261.77,27,4.5,1925
+P0393,Stylish Face Wash,Beauty,22.82,18.48,19,2.1,968
+P0394,Stylish Pan,Home & Kitchen,166.38,134.77,19,1.2,6262
+P0395,Lightweight Shampoo,Beauty,24.18,15.48,36,4.7,6980
+P0396,Premium Dumbbell,Sports,69.59,60.54,13,3.8,8467
+P0397,Advanced Board Game,Toys,98.73,76.02,23,3.7,125
+P0398,Premium Doll,Toys,95.42,68.7,28,4.5,5342
+P0399,Premium Tablet,Electronics,583.03,454.76,22,3.7,6294
+P0400,Advanced Novel,Books,6.35,5.4,15,4.8,891
+P0401,Stylish Laptop,Electronics,1379.52,1103.62,20,1.4,9991
+P0402,Stylish Jacket,Clothing,31.86,20.07,37,4.5,1198
+P0403,Eco-friendly Toaster,Home & Kitchen,212.4,159.3,25,2.5,6257
+P0404,Durable Soccer Ball,Sports,137.19,102.89,25,4.5,986
+P0405,Eco-friendly Board Game,Toys,93.44,90.64,3,3.7,3124
+P0406,Premium Textbook,Books,35.01,21.01,40,1.4,3291
+P0407,Durable Face Wash,Beauty,19.47,18.5,5,2.3,7848
+P0408,Compact Doll,Toys,99.37,87.45,12,4.1,3230
+P0409,Eco-friendly Dumbbell,Sports,374.46,363.23,3,3.6,3173
+P0410,Advanced Pan,Home & Kitchen,108.2,68.17,37,2.8,3553
+P0411,Amazing Sweater,Clothing,116.72,70.03,40,2.3,1388
+P0412,Lightweight Jeans,Clothing,124.5,95.87,23,2.2,454
+P0413,Affordable Headphones,Electronics,110.94,95.41,14,3.5,4806
+P0414,Advanced Tent,Sports,290.45,238.17,18,2.6,5592
+P0415,Advanced Doll,Toys,61.67,42.55,31,2.5,6059
+P0416,Advanced Moisturizer,Beauty,9.06,8.15,10,3.4,7117
+P0417,Affordable Blender,Home & Kitchen,191.55,176.23,8,2.5,6471
+P0418,Durable Textbook,Books,28.36,26.94,5,4.7,1177
+P0419,Ergonomic Jacket,Clothing,25.25,24.24,4,2.6,8234
+P0420,Advanced Action Figure,Toys,77.66,73.78,5,4.0,6570
+P0421,Durable Lipstick,Beauty,9.31,7.26,22,2.7,4431
+P0422,Ergonomic Laptop,Electronics,1330.2,1143.97,14,2.0,8906
+P0423,Affordable Bicycle,Sports,202.44,196.37,3,4.7,4882
+P0424,Compact Face Wash,Beauty,15.3,14.84,3,2.0,3610
+P0425,Stylish Moisturizer,Beauty,74.93,54.7,27,3.2,7311
+P0426,Compact Car,Toys,13.51,9.59,29,3.9,6787
+P0427,Eco-friendly T-Shirt,Clothing,125.24,88.92,29,1.7,7052
+P0428,Amazing Puzzle,Toys,22.54,14.65,35,2.7,1798
+P0429,Affordable Shampoo,Beauty,66.73,58.72,12,3.4,7285
+P0430,Stylish Dumbbell,Sports,267.28,195.11,27,1.9,4616
+P0431,Advanced Headphones,Electronics,1328.55,1022.98,23,2.6,9852
+P0432,Durable Board Game,Toys,91.06,70.12,23,2.4,3225
+P0433,Eco-friendly Textbook,Books,16.5,16.0,3,2.1,6674
+P0434,Lightweight Dress,Clothing,129.16,80.08,38,3.7,145
+P0435,Eco-friendly Jacket,Clothing,117.33,106.77,9,2.8,9776
+P0436,Affordable Lipstick,Beauty,61.05,40.9,33,2.9,8853
+P0437,Stylish Action Figure,Toys,7.25,6.24,14,1.9,7622
+P0438,Premium Toaster,Home & Kitchen,170.81,155.44,9,2.0,1100
+P0439,Compact Perfume,Beauty,50.8,38.61,24,5.0,4358
+P0440,Lightweight Lipstick,Beauty,58.05,56.89,2,2.8,6780
+P0441,Durable Laptop,Electronics,1463.44,1317.1,10,5.0,2349
+P0442,Lightweight T-Shirt,Clothing,24.58,18.43,25,2.3,9382
+P0443,Stylish Pillow,Home & Kitchen,235.2,152.88,35,1.3,7843
+P0444,Durable Bicycle,Sports,112.1,104.25,7,2.5,5189
+P0445,Compact Tablet,Electronics,774.49,751.26,3,2.8,3713
+P0446,Ergonomic Camera,Electronics,1372.24,1015.46,26,3.6,7397
+P0447,Ergonomic Jeans,Clothing,92.99,91.13,2,3.1,2428
+P0448,Premium Doll,Toys,48.4,38.24,21,3.7,5291
+P0449,Advanced Doll,Toys,67.87,57.01,16,5.0,9686
+P0450,Eco-friendly Laptop,Electronics,983.89,915.02,7,3.3,3374
+P0451,Advanced Tablet,Electronics,481.77,409.5,15,2.6,6813
+P0452,Premium Smartphone,Electronics,955.7,812.35,15,1.0,3719
+P0453,Eco-friendly Tent,Sports,401.82,341.55,15,2.5,7446
+P0454,Stylish Lamp,Home & Kitchen,128.81,78.57,39,1.1,6099
+P0455,Ergonomic Toaster,Home & Kitchen,279.2,279.2,0,4.4,148
+P0456,Premium Pan,Home & Kitchen,41.48,32.77,21,1.4,9958
+P0457,Durable Bicycle,Sports,435.05,369.79,15,3.0,9715
+P0458,Stylish Smartphone,Electronics,1446.61,1258.55,13,1.5,5782
+P0459,Affordable Toaster,Home & Kitchen,89.99,89.09,1,2.5,2817
+P0460,Stylish Shampoo,Beauty,75.46,69.42,8,3.0,5299
+P0461,Stylish Car,Toys,31.57,23.68,25,3.4,4406
+P0462,Stylish Action Figure,Toys,20.37,16.09,21,3.0,4437
+P0463,Advanced Toaster,Home & Kitchen,176.47,157.06,11,4.7,8785
+P0464,Affordable Laptop,Electronics,1293.11,918.11,29,4.5,7629
+P0465,Compact Car,Toys,81.56,69.33,15,1.8,7693
+P0466,Amazing Headphones,Electronics,253.75,203.0,20,1.1,7002
+P0467,Eco-friendly Textbook,Books,36.27,30.1,17,4.8,6097
+P0468,Premium Textbook,Books,33.84,25.72,24,3.3,4259
+P0469,Ergonomic Cookbook,Books,32.29,32.29,0,3.4,4917
+P0470,Compact Lipstick,Beauty,67.71,66.36,2,4.8,7045
+P0471,Eco-friendly Face Wash,Beauty,18.54,12.42,33,1.3,7137
+P0472,Advanced Smartphone,Electronics,1061.6,912.98,14,4.9,7179
+P0473,Lightweight Biography,Books,48.46,33.44,31,3.4,8734
+P0474,Eco-friendly Shampoo,Beauty,44.44,36.89,17,2.1,2494
+P0475,Amazing Board Game,Toys,65.88,47.43,28,1.1,5179
+P0476,Stylish Smartphone,Electronics,793.12,555.18,30,1.2,6488
+P0477,Stylish Yoga Mat,Sports,47.92,43.13,10,4.0,5175
+P0478,Advanced Novel,Books,18.38,14.34,22,2.0,5448
+P0479,Durable Textbook,Books,40.22,37.81,6,3.8,6907
+P0480,Premium Tablet,Electronics,1274.3,1236.07,3,5.0,6928
+P0481,Stylish Lamp,Home & Kitchen,81.3,58.54,28,3.5,4517
+P0482,Premium Tent,Sports,224.52,143.69,36,4.5,5693
+P0483,Compact Soccer Ball,Sports,333.96,220.41,34,2.5,1549
+P0484,Lightweight Headphones,Electronics,436.09,344.51,21,4.9,4481
+P0485,Amazing Blender,Home & Kitchen,53.13,42.5,20,1.1,7758
+P0486,Durable Pan,Home & Kitchen,180.91,141.11,22,1.5,5542
+P0487,Premium Doll,Toys,63.8,56.14,12,1.0,8433
+P0488,Affordable Action Figure,Toys,64.78,53.77,17,1.3,671
+P0489,Stylish Camera,Electronics,1026.92,677.77,34,2.1,4798
+P0490,Premium Cookbook,Books,27.47,20.6,25,1.5,8737
+P0491,Ergonomic Dress,Clothing,55.45,46.02,17,2.9,9651
+P0492,Stylish Tent,Sports,432.59,346.07,20,4.8,2672
+P0493,Lightweight Bicycle,Sports,478.56,401.99,16,3.6,8616
+P0494,Lightweight Lamp,Home & Kitchen,211.12,152.01,28,2.1,8433
+P0495,Premium Blender,Home & Kitchen,25.95,15.83,39,2.8,8906
+P0496,Lightweight Moisturizer,Beauty,43.67,40.61,7,4.6,2247
+P0497,Affordable Toaster,Home & Kitchen,79.68,66.93,16,1.3,9047
+P0498,Stylish Pan,Home & Kitchen,266.5,255.84,4,3.9,6230
+P0499,Durable Blender,Home & Kitchen,208.86,183.8,12,1.2,3456
+P0500,Durable Jacket,Clothing,20.09,15.47,23,1.4,1668
+P0501,Advanced Puzzle,Toys,53.32,32.53,39,2.4,365
+P0502,Affordable Novel,Books,49.62,42.67,14,4.8,8754
+P0503,Premium Laptop,Electronics,430.81,413.58,4,3.2,5439
+P0504,Premium Pillow,Home & Kitchen,135.92,93.78,31,3.1,7504
+P0505,Eco-friendly Face Wash,Beauty,29.27,17.85,39,3.5,3009
+P0506,Ergonomic Camera,Electronics,1367.97,1340.61,2,1.5,6979
+P0507,Stylish Yoga Mat,Sports,391.82,235.09,40,4.8,4285
+P0508,Stylish Pan,Home & Kitchen,270.31,245.98,9,4.2,8843
+P0509,Amazing Lipstick,Beauty,42.15,41.73,1,3.4,9908
+P0510,Advanced Bicycle,Sports,461.74,392.48,15,4.2,8714
+P0511,Ergonomic Camera,Electronics,183.1,153.8,16,4.7,5784
+P0512,Eco-friendly Guide,Books,21.92,19.07,13,2.8,7128
+P0513,Premium Biography,Books,12.37,8.78,29,4.7,685
+P0514,Lightweight Lipstick,Beauty,8.92,7.14,20,2.1,9759
+P0515,Advanced Camera,Electronics,702.15,435.33,38,4.4,1256
+P0516,Durable Textbook,Books,29.48,23.58,20,4.0,301
+P0517,Ergonomic Face Wash,Beauty,60.45,56.82,6,1.7,9951
+P0518,Lightweight Action Figure,Toys,21.86,17.27,21,4.0,9560
+P0519,Advanced Yoga Mat,Sports,469.95,338.36,28,3.9,4558
+P0520,Advanced Biography,Books,9.13,6.39,30,3.0,4183
+P0521,Stylish T-Shirt,Clothing,57.93,45.76,21,3.2,1724
+P0522,Eco-friendly Textbook,Books,38.45,37.68,2,2.2,2066
+P0523,Durable Action Figure,Toys,19.4,13.77,29,4.5,9496
+P0524,Amazing Novel,Books,39.25,36.5,7,2.8,3727
+P0525,Lightweight Board Game,Toys,82.12,78.84,4,4.5,6019
+P0526,Durable Pan,Home & Kitchen,43.27,29.86,31,4.5,8033
+P0527,Eco-friendly Jacket,Clothing,38.56,35.09,9,4.0,6445
+P0528,Stylish Dress,Clothing,96.24,71.22,26,3.8,2159
+P0529,Premium Yoga Mat,Sports,396.22,257.54,35,1.0,2649
+P0530,Eco-friendly Textbook,Books,42.8,38.09,11,4.0,1037
+P0531,Premium Headphones,Electronics,1524.14,1234.55,19,2.3,1778
+P0532,Durable Pan,Home & Kitchen,254.96,242.21,5,4.5,1124
+P0533,Affordable Tent,Sports,79.86,77.46,3,3.9,1013
+P0534,Compact Dress,Clothing,93.03,59.54,36,3.7,2023
+P0535,Stylish Tablet,Electronics,438.91,399.41,9,3.5,5891
+P0536,Advanced Camera,Electronics,444.51,360.05,19,2.6,2563
+P0537,Lightweight Pillow,Home & Kitchen,160.38,157.17,2,1.3,4431
+P0538,Compact Tablet,Electronics,528.33,512.48,3,1.2,161
+P0539,Amazing Yoga Mat,Sports,307.7,252.31,18,2.1,3390
+P0540,Advanced Cookbook,Books,8.47,6.69,21,3.8,541
+P0541,Eco-friendly Lipstick,Beauty,78.7,55.09,30,4.3,8623
+P0542,Stylish T-Shirt,Clothing,62.28,44.22,29,2.3,9398
+P0543,Affordable Tablet,Electronics,548.13,400.13,27,3.9,1019
+P0544,Eco-friendly Guide,Books,18.47,12.56,32,2.7,1283
+P0545,Compact Soccer Ball,Sports,258.16,191.04,26,3.7,2125
+P0546,Stylish Yoga Mat,Sports,378.67,234.78,38,3.3,3471
+P0547,Amazing Pan,Home & Kitchen,72.84,66.28,9,2.3,5068
+P0548,Affordable Laptop,Electronics,1430.48,1015.64,29,4.3,2757
+P0549,Stylish Face Wash,Beauty,45.3,37.15,18,2.0,5017
+P0550,Ergonomic Pan,Home & Kitchen,263.73,189.89,28,2.8,2096
+P0551,Durable Puzzle,Toys,46.34,44.49,4,3.8,9817
+P0552,Durable Laptop,Electronics,253.14,156.95,38,4.6,2978
+P0553,Eco-friendly Dress,Clothing,71.16,46.25,35,4.1,685
+P0554,Stylish Blender,Home & Kitchen,188.91,132.24,30,4.7,6868
+P0555,Premium Toaster,Home & Kitchen,34.65,24.6,29,1.1,4998
+P0556,Ergonomic Pan,Home & Kitchen,85.39,62.33,27,4.1,905
+P0557,Premium Tent,Sports,150.54,105.38,30,2.8,204
+P0558,Advanced Lipstick,Beauty,27.31,25.13,8,3.0,9911
+P0559,Stylish Cookbook,Books,7.09,5.88,17,4.6,5560
+P0560,Lightweight Laptop,Electronics,757.25,514.93,32,4.1,9614
+P0561,Lightweight Dumbbell,Sports,30.48,27.43,10,4.9,9135
+P0562,Stylish Lipstick,Beauty,75.45,56.59,25,2.7,6285
+P0563,Eco-friendly Board Game,Toys,74.43,59.54,20,2.0,3670
+P0564,Eco-friendly Headphones,Electronics,476.39,366.82,23,2.4,8562
+P0565,Eco-friendly Textbook,Books,48.74,43.38,11,2.4,8616
+P0566,Premium Cookbook,Books,5.99,5.81,3,2.7,597
+P0567,Affordable Perfume,Beauty,48.41,40.66,16,4.9,572
+P0568,Ergonomic Face Wash,Beauty,69.93,41.96,40,4.2,4624
+P0569,Ergonomic Lamp,Home & Kitchen,189.68,180.2,5,4.4,1537
+P0570,Stylish Jeans,Clothing,102.99,101.96,1,1.4,3750
+P0571,Premium Pan,Home & Kitchen,170.45,131.25,23,4.1,5413
+P0572,Advanced Pillow,Home & Kitchen,244.83,222.8,9,4.9,1854
+P0573,Amazing Bicycle,Sports,258.68,178.49,31,2.0,9369
+P0574,Premium Bicycle,Sports,178.5,141.02,21,1.1,1749
+P0575,Affordable Blender,Home & Kitchen,61.06,53.12,13,2.0,6823
+P0576,Stylish Headphones,Electronics,1971.48,1478.61,25,3.2,2113
+P0577,Premium Camera,Electronics,223.89,219.41,2,4.6,7264
+P0578,Lightweight Tent,Sports,207.55,136.98,34,1.4,6744
+P0579,Ergonomic Lamp,Home & Kitchen,128.25,105.17,18,2.8,2551
+P0580,Amazing Perfume,Beauty,21.44,19.94,7,2.1,475
+P0581,Ergonomic Moisturizer,Beauty,62.54,40.03,36,3.5,6710
+P0582,Ergonomic Sweater,Clothing,99.97,85.97,14,4.7,5223
+P0583,Eco-friendly Yoga Mat,Sports,269.69,218.45,19,3.2,2822
+P0584,Premium Pillow,Home & Kitchen,189.84,186.04,2,4.6,1898
+P0585,Premium Car,Toys,98.43,66.93,32,3.4,5110
+P0586,Eco-friendly Action Figure,Toys,22.5,14.4,36,3.9,687
+P0587,Affordable Guide,Books,11.84,11.48,3,4.2,6509
+P0588,Lightweight Soccer Ball,Sports,60.06,41.44,31,1.5,7183
+P0589,Stylish Biography,Books,49.48,39.58,20,3.9,7329
+P0590,Durable Sweater,Clothing,33.23,20.93,37,4.9,9786
+P0591,Stylish Face Wash,Beauty,19.68,14.56,26,3.7,6274
+P0592,Stylish Laptop,Electronics,1102.06,837.57,24,4.3,7833
+P0593,Premium Dress,Clothing,21.12,20.28,4,4.9,264
+P0594,Durable Puzzle,Toys,82.81,78.67,5,3.8,7544
+P0595,Ergonomic Jeans,Clothing,75.96,69.88,8,2.4,9346
+P0596,Premium Dress,Clothing,133.18,94.56,29,1.7,3348
+P0597,Eco-friendly Puzzle,Toys,15.73,11.8,25,1.4,9172
+P0598,Durable Jeans,Clothing,68.82,46.11,33,2.4,5433
+P0599,Premium Bicycle,Sports,314.61,245.4,22,3.5,6416
+P0600,Durable Bicycle,Sports,423.89,381.5,10,4.4,9122
+P0601,Eco-friendly Face Wash,Beauty,10.24,8.7,15,1.4,4578
+P0602,Durable Camera,Electronics,1404.02,1024.93,27,3.7,6344
+P0603,Amazing Jacket,Clothing,101.74,101.74,0,4.3,9046
+P0604,Eco-friendly Jeans,Clothing,20.79,20.37,2,3.8,6040
+P0605,Affordable Jeans,Clothing,40.17,34.55,14,1.9,6370
+P0606,Eco-friendly Cookbook,Books,39.34,34.23,13,4.6,7568
+P0607,Advanced Laptop,Electronics,1555.52,1026.64,34,1.2,7374
+P0608,Lightweight Soccer Ball,Sports,144.94,98.56,32,4.5,6362
+P0609,Stylish Camera,Electronics,1164.84,861.98,26,2.6,6701
+P0610,Ergonomic Guide,Books,25.72,16.72,35,2.5,5661
+P0611,Eco-friendly Cookbook,Books,41.11,33.3,19,1.1,423
+P0612,Ergonomic Moisturizer,Beauty,61.27,45.95,25,4.9,4757
+P0613,Affordable Action Figure,Toys,86.54,70.96,18,4.9,2946
+P0614,Stylish Toaster,Home & Kitchen,229.88,211.49,8,4.4,7230
+P0615,Ergonomic Pillow,Home & Kitchen,174.37,142.98,18,4.5,4493
+P0616,Affordable Moisturizer,Beauty,23.73,15.42,35,1.4,285
+P0617,Compact Bicycle,Sports,42.14,28.66,32,2.9,1762
+P0618,Affordable Moisturizer,Beauty,24.3,21.14,13,4.0,5827
+P0619,Ergonomic Sweater,Clothing,19.03,13.89,27,4.4,7804
+P0620,Advanced Pan,Home & Kitchen,184.07,110.44,40,5.0,5374
+P0621,Lightweight Tent,Sports,57.91,41.7,28,4.4,2479
+P0622,Compact Textbook,Books,6.56,4.33,34,2.1,9777
+P0623,Advanced Novel,Books,30.8,24.64,20,1.3,9491
+P0624,Affordable Puzzle,Toys,25.92,17.63,32,4.0,7368
+P0625,Premium Soccer Ball,Sports,456.62,442.92,3,4.5,4577
+P0626,Premium Lipstick,Beauty,71.29,71.29,0,1.1,342
+P0627,Eco-friendly Headphones,Electronics,917.81,816.85,11,4.6,6317
+P0628,Lightweight Toaster,Home & Kitchen,235.56,141.34,40,2.4,6748
+P0629,Durable Shampoo,Beauty,20.28,16.22,20,3.5,3740
+P0630,Affordable Biography,Books,33.78,31.75,6,1.5,771
+P0631,Durable Laptop,Electronics,830.57,813.96,2,3.6,193
+P0632,Lightweight Pillow,Home & Kitchen,92.4,68.38,26,4.0,9984
+P0633,Durable Novel,Books,17.1,10.77,37,1.3,3736
+P0634,Compact T-Shirt,Clothing,10.41,9.26,11,3.4,4378
+P0635,Premium Jacket,Clothing,29.6,29.6,0,2.8,9836
+P0636,Eco-friendly Moisturizer,Beauty,42.71,26.05,39,2.9,1455
+P0637,Advanced Tablet,Electronics,633.3,557.3,12,3.1,1325
+P0638,Eco-friendly Doll,Toys,9.7,9.02,7,1.1,4987
+P0639,Ergonomic Blender,Home & Kitchen,96.2,59.64,38,4.2,1968
+P0640,Amazing Headphones,Electronics,515.17,309.1,40,2.6,4912
+P0641,Eco-friendly Textbook,Books,32.77,25.23,23,3.1,182
+P0642,Ergonomic Car,Toys,88.05,77.48,12,3.7,1517
+P0643,Premium Pillow,Home & Kitchen,297.95,262.2,12,4.7,3628
+P0644,Advanced Novel,Books,22.76,18.66,18,2.6,6132
+P0645,Compact Tablet,Electronics,590.53,401.56,32,4.3,6246
+P0646,Ergonomic Doll,Toys,95.63,91.8,4,1.0,8365
+P0647,Premium Tablet,Electronics,197.16,153.78,22,1.2,1875
+P0648,Lightweight Yoga Mat,Sports,349.56,346.06,1,3.7,3744
+P0649,Lightweight Car,Toys,48.34,40.12,17,1.4,1774
+P0650,Eco-friendly Biography,Books,23.85,19.32,19,4.6,331
+P0651,Amazing Lamp,Home & Kitchen,37.85,32.55,14,4.0,5889
+P0652,Compact Dress,Clothing,103.6,62.16,40,3.6,1842
+P0653,Eco-friendly Blender,Home & Kitchen,184.19,167.61,9,3.0,4658
+P0654,Stylish Yoga Mat,Sports,458.38,284.2,38,4.5,3155
+P0655,Lightweight Soccer Ball,Sports,326.18,322.92,1,3.1,386
+P0656,Lightweight Face Wash,Beauty,46.45,28.33,39,4.3,4008
+P0657,Durable Tablet,Electronics,901.87,595.23,34,2.8,7980
+P0658,Durable Headphones,Electronics,858.8,549.63,36,1.5,9342
+P0659,Amazing Jacket,Clothing,58.04,45.27,22,4.3,7461
+P0660,Premium Lipstick,Beauty,68.88,57.17,17,2.6,3500
+P0661,Premium Textbook,Books,17.39,10.96,37,4.2,3259
+P0662,Stylish Board Game,Toys,26.5,18.29,31,4.3,3243
+P0663,Stylish Camera,Electronics,1841.61,1436.46,22,2.3,1141
+P0664,Eco-friendly Sweater,Clothing,108.78,73.97,32,3.1,3361
+P0665,Affordable Board Game,Toys,20.85,13.34,36,3.6,6564
+P0666,Eco-friendly Shampoo,Beauty,72.09,72.09,0,4.8,5906
+P0667,Affordable Action Figure,Toys,7.42,6.16,17,3.5,5546
+P0668,Compact T-Shirt,Clothing,64.02,47.37,26,2.6,1829
+P0669,Compact Shampoo,Beauty,68.99,64.16,7,2.5,3699
+P0670,Advanced Dress,Clothing,91.23,57.47,37,2.8,5744
+P0671,Lightweight Pan,Home & Kitchen,55.06,52.86,4,1.9,3415
+P0672,Amazing Jeans,Clothing,80.76,72.68,10,1.5,7833
+P0673,Stylish T-Shirt,Clothing,15.46,11.44,26,1.6,2309
+P0674,Stylish Lipstick,Beauty,62.45,53.71,14,3.0,4009
+P0675,Stylish Tablet,Electronics,1810.16,1158.5,36,4.8,8036
+P0676,Affordable Pan,Home & Kitchen,150.09,142.59,5,3.4,6139
+P0677,Eco-friendly Sweater,Clothing,86.35,62.17,28,2.2,5619
+P0678,Affordable Puzzle,Toys,7.94,5.48,31,2.4,3236
+P0679,Lightweight Lipstick,Beauty,42.41,37.32,12,3.2,4916
+P0680,Premium Perfume,Beauty,68.02,66.66,2,2.2,1439
+P0681,Durable Camera,Electronics,1447.13,1157.7,20,2.4,9748
+P0682,Eco-friendly Face Wash,Beauty,77.58,48.1,38,3.2,3456
+P0683,Stylish T-Shirt,Clothing,91.27,70.28,23,5.0,5004
+P0684,Stylish Headphones,Electronics,1289.85,1160.87,10,1.8,6652
+P0685,Affordable Dress,Clothing,149.14,123.79,17,3.5,6905
+P0686,Durable Board Game,Toys,48.84,30.28,38,2.6,1307
+P0687,Affordable Puzzle,Toys,85.99,55.03,36,3.2,3730
+P0688,Amazing Pillow,Home & Kitchen,52.73,39.02,26,4.6,8458
+P0689,Durable Bicycle,Sports,189.66,168.8,11,1.2,6538
+P0690,Amazing Action Figure,Toys,57.19,54.9,4,4.2,1960
+P0691,Durable Puzzle,Toys,88.32,78.6,11,4.9,882
+P0692,Eco-friendly Yoga Mat,Sports,242.08,167.04,31,3.0,7929
+P0693,Ergonomic Guide,Books,27.11,24.4,10,1.8,2454
+P0694,Eco-friendly Laptop,Electronics,834.43,750.99,10,4.7,6642
+P0695,Stylish Biography,Books,30.98,26.95,13,2.8,4699
+P0696,Ergonomic Blender,Home & Kitchen,250.84,243.31,3,4.2,4258
+P0697,Eco-friendly Tent,Sports,116.23,106.93,8,1.2,7084
+P0698,Stylish Sweater,Clothing,71.48,48.61,32,4.6,7742
+P0699,Premium Face Wash,Beauty,71.61,68.75,4,3.0,7661
+P0700,Lightweight Biography,Books,14.93,12.69,15,4.1,4117
+P0701,Stylish Pillow,Home & Kitchen,211.0,206.78,2,3.8,5929
+P0702,Premium Novel,Books,33.46,26.77,20,2.4,6337
+P0703,Eco-friendly Doll,Toys,36.67,24.2,34,1.8,4152
+P0704,Durable Soccer Ball,Sports,400.83,264.55,34,5.0,2841
+P0705,Advanced Headphones,Electronics,1674.09,1573.64,6,1.0,1088
+P0706,Affordable Board Game,Toys,37.47,23.98,36,4.0,5668
+P0707,Advanced Tent,Sports,22.72,21.13,7,4.1,7295
+P0708,Premium Cookbook,Books,41.41,41.41,0,4.4,3175
+P0709,Premium Perfume,Beauty,36.74,24.62,33,1.3,7427
+P0710,Affordable Novel,Books,23.32,14.69,37,2.2,3655
+P0711,Stylish Lipstick,Beauty,15.99,14.07,12,4.8,5409
+P0712,Premium Car,Toys,5.58,4.58,18,3.1,5647
+P0713,Advanced Bicycle,Sports,347.24,291.68,16,3.0,7913
+P0714,Eco-friendly Moisturizer,Beauty,25.44,16.03,37,1.2,1497
+P0715,Stylish Face Wash,Beauty,37.01,25.91,30,1.9,2951
+P0716,Premium Cookbook,Books,18.16,13.44,26,1.1,7398
+P0717,Eco-friendly Moisturizer,Beauty,42.3,42.3,0,3.2,5789
+P0718,Affordable Shampoo,Beauty,78.49,62.79,20,1.9,7480
+P0719,Lightweight Dress,Clothing,116.35,81.44,30,4.6,7190
+P0720,Affordable Dress,Clothing,131.37,119.55,9,3.3,5575
+P0721,Ergonomic Novel,Books,29.96,24.27,19,3.7,6555
+P0722,Advanced Tablet,Electronics,545.84,420.3,23,2.2,6846
+P0723,Affordable Car,Toys,16.4,12.79,22,3.9,9227
+P0724,Durable Lamp,Home & Kitchen,156.56,136.21,13,4.5,7927
+P0725,Eco-friendly Headphones,Electronics,1296.16,1166.54,10,2.1,7758
+P0726,Premium Doll,Toys,14.76,10.63,28,1.2,3167
+P0727,Lightweight Pillow,Home & Kitchen,184.14,154.68,16,1.3,9009
+P0728,Lightweight Textbook,Books,26.01,24.71,5,2.0,9080
+P0729,Eco-friendly Guide,Books,8.72,6.37,27,1.4,2624
+P0730,Amazing Yoga Mat,Sports,82.37,75.78,8,4.4,4523
+P0731,Eco-friendly Bicycle,Sports,294.47,244.41,17,4.6,9298
+P0732,Eco-friendly Biography,Books,45.95,40.9,11,3.7,8662
+P0733,Compact Puzzle,Toys,51.91,35.3,32,4.7,7094
+P0734,Advanced Yoga Mat,Sports,22.09,17.23,22,2.0,234
+P0735,Compact Dress,Clothing,103.29,70.24,32,2.1,522
+P0736,Eco-friendly Jacket,Clothing,143.11,108.76,24,2.2,7122
+P0737,Lightweight Yoga Mat,Sports,324.48,207.67,36,1.2,1124
+P0738,Eco-friendly Soccer Ball,Sports,259.31,160.77,38,3.0,5672
+P0739,Eco-friendly Dumbbell,Sports,248.46,206.22,17,3.5,8418
+P0740,Ergonomic Car,Toys,40.13,37.72,6,4.1,2257
+P0741,Ergonomic T-Shirt,Clothing,87.29,56.74,35,4.4,4424
+P0742,Amazing Shampoo,Beauty,70.62,55.79,21,1.9,9388
+P0743,Ergonomic Headphones,Electronics,168.28,154.82,8,1.5,7430
+P0744,Compact Car,Toys,16.94,16.6,2,2.3,9131
+P0745,Ergonomic Blender,Home & Kitchen,127.61,77.84,39,2.9,5184
+P0746,Lightweight Pillow,Home & Kitchen,268.71,177.35,34,3.7,4213
+P0747,Advanced Doll,Toys,79.29,72.15,9,1.1,3748
+P0748,Durable Biography,Books,46.0,45.54,1,1.1,7011
+P0749,Premium Blender,Home & Kitchen,285.42,188.38,34,3.0,2158
+P0750,Affordable Guide,Books,19.86,17.68,11,3.4,7703
+P0751,Affordable Toaster,Home & Kitchen,221.58,168.4,24,4.9,3259
+P0752,Ergonomic Jeans,Clothing,65.67,65.67,0,2.2,3227
+P0753,Stylish Jacket,Clothing,47.42,39.83,16,3.1,2745
+P0754,Eco-friendly Pillow,Home & Kitchen,259.28,184.09,29,2.5,4063
+P0755,Lightweight Yoga Mat,Sports,179.41,136.35,24,4.1,4025
+P0756,Compact Sweater,Clothing,41.26,36.72,11,1.0,6516
+P0757,Advanced Tablet,Electronics,1328.27,1248.57,6,4.5,4402
+P0758,Eco-friendly Novel,Books,6.06,5.45,10,4.3,8835
+P0759,Advanced Tablet,Electronics,1808.96,1302.45,28,1.9,5345
+P0760,Ergonomic Perfume,Beauty,42.85,36.85,14,1.2,9433
+P0761,Eco-friendly Biography,Books,31.2,19.03,39,4.8,9171
+P0762,Stylish Dumbbell,Sports,281.35,241.96,14,3.2,277
+P0763,Eco-friendly Perfume,Beauty,34.33,25.75,25,1.8,25
+P0764,Affordable Tent,Sports,426.65,349.85,18,1.6,3764
+P0765,Affordable T-Shirt,Clothing,83.82,81.31,3,2.6,3483
+P0766,Durable Camera,Electronics,1321.36,1321.36,0,2.4,6707
+P0767,Compact Toaster,Home & Kitchen,111.14,77.8,30,3.8,3313
+P0768,Stylish Yoga Mat,Sports,351.25,337.2,4,3.0,2295
+P0769,Advanced Tablet,Electronics,355.12,223.73,37,3.1,2783
+P0770,Affordable Bicycle,Sports,260.29,208.23,20,4.8,7557
+P0771,Amazing Yoga Mat,Sports,151.86,119.97,21,4.0,1932
+P0772,Eco-friendly Pillow,Home & Kitchen,145.7,142.79,2,1.7,1116
+P0773,Stylish Doll,Toys,50.73,34.5,32,1.5,6474
+P0774,Amazing Sweater,Clothing,121.04,108.94,10,2.6,9797
+P0775,Ergonomic Camera,Electronics,306.9,297.69,3,4.8,2743
+P0776,Stylish Textbook,Books,37.03,27.77,25,3.1,5451
+P0777,Premium Sweater,Clothing,46.34,35.22,24,4.7,6102
+P0778,Affordable Soccer Ball,Sports,55.08,45.72,17,4.9,9475
+P0779,Ergonomic Dress,Clothing,126.11,90.8,28,4.6,1296
+P0780,Eco-friendly Laptop,Electronics,1924.26,1635.62,15,4.9,5366
+P0781,Stylish Pillow,Home & Kitchen,126.95,118.06,7,4.1,6976
+P0782,Stylish Dumbbell,Sports,239.95,201.56,16,1.7,5973
+P0783,Ergonomic Textbook,Books,43.48,40.0,8,4.3,3619
+P0784,Lightweight Blender,Home & Kitchen,116.75,85.23,27,1.9,8148
+P0785,Amazing Smartphone,Electronics,521.94,318.38,39,4.4,9135
+P0786,Stylish Doll,Toys,14.06,9.0,36,2.0,4444
+P0787,Affordable Dumbbell,Sports,250.83,220.73,12,1.0,2787
+P0788,Lightweight Dumbbell,Sports,158.66,117.41,26,4.8,2176
+P0789,Ergonomic Jacket,Clothing,16.29,11.73,28,2.9,9171
+P0790,Durable Textbook,Books,9.08,6.45,29,4.7,3696
+P0791,Advanced Car,Toys,47.21,35.41,25,2.4,4369
+P0792,Lightweight Dress,Clothing,148.94,107.24,28,3.3,3162
+P0793,Affordable Soccer Ball,Sports,219.49,219.49,0,2.0,8345
+P0794,Affordable T-Shirt,Clothing,138.55,108.07,22,3.0,3786
+P0795,Stylish T-Shirt,Clothing,115.25,110.64,4,1.1,5520
+P0796,Ergonomic Pillow,Home & Kitchen,57.23,34.34,40,4.8,7423
+P0797,Amazing Face Wash,Beauty,39.44,31.55,20,3.1,1132
+P0798,Advanced Lamp,Home & Kitchen,115.62,108.68,6,4.4,7812
+P0799,Compact Yoga Mat,Sports,221.34,214.7,3,4.3,8275
+P0800,Affordable Dumbbell,Sports,258.82,186.35,28,2.0,9583
+P0801,Ergonomic Tent,Sports,179.15,111.07,38,1.1,4570
+P0802,Compact Novel,Books,8.11,6.97,14,4.5,9582
+P0803,Premium Dumbbell,Sports,409.22,249.62,39,1.2,3607
+P0804,Affordable Headphones,Electronics,769.94,746.84,3,1.6,8120
+P0805,Eco-friendly Pan,Home & Kitchen,147.04,114.69,22,4.7,4958
+P0806,Compact Doll,Toys,17.15,10.29,40,1.0,3832
+P0807,Ergonomic Tent,Sports,49.44,46.97,5,1.2,9865
+P0808,Amazing Moisturizer,Beauty,22.44,13.91,38,2.2,4307
+P0809,Compact Soccer Ball,Sports,130.6,103.17,21,3.9,3109
+P0810,Affordable Dress,Clothing,112.44,73.09,35,4.0,6028
+P0811,Stylish Toaster,Home & Kitchen,135.45,96.17,29,2.3,6680
+P0812,Lightweight Pillow,Home & Kitchen,87.05,75.73,13,1.5,4591
+P0813,Stylish Bicycle,Sports,452.93,294.4,35,4.9,5141
+P0814,Affordable Dumbbell,Sports,208.73,166.98,20,1.6,8463
+P0815,Advanced Textbook,Books,8.53,5.97,30,4.0,4538
+P0816,Compact Jacket,Clothing,47.66,43.85,8,2.1,3551
+P0817,Advanced Moisturizer,Beauty,11.05,9.28,16,3.4,6579
+P0818,Affordable Puzzle,Toys,65.06,52.05,20,3.2,2800
+P0819,Stylish Lamp,Home & Kitchen,161.45,122.7,24,1.7,1104
+P0820,Advanced Lipstick,Beauty,75.17,57.88,23,1.6,3854
+P0821,Ergonomic Camera,Electronics,1457.22,1384.36,5,4.7,406
+P0822,Durable Pillow,Home & Kitchen,50.66,42.55,16,1.1,680
+P0823,Eco-friendly Lipstick,Beauty,22.06,19.41,12,1.9,1363
+P0824,Advanced Laptop,Electronics,1959.2,1920.02,2,1.5,8752
+P0825,Affordable Jacket,Clothing,111.79,111.79,0,2.2,9689
+P0826,Affordable Board Game,Toys,20.49,14.14,31,2.5,7619
+P0827,Lightweight Biography,Books,22.3,18.29,18,4.1,3490
+P0828,Advanced Dumbbell,Sports,25.48,17.33,32,4.9,4796
+P0829,Ergonomic Camera,Electronics,285.28,219.67,23,3.8,3922
+P0830,Compact Novel,Books,36.78,25.01,32,4.9,2240
+P0831,Lightweight Board Game,Toys,34.34,29.19,15,4.5,1855
+P0832,Compact Action Figure,Toys,72.87,59.75,18,2.6,4986
+P0833,Durable Headphones,Electronics,1770.75,1345.77,24,1.6,451
+P0834,Affordable Action Figure,Toys,64.38,63.74,1,4.5,882
+P0835,Eco-friendly Action Figure,Toys,52.64,48.96,7,2.0,8566
+P0836,Eco-friendly Tent,Sports,294.44,250.27,15,4.9,4595
+P0837,Affordable Doll,Toys,69.03,46.94,32,3.2,3197
+P0838,Compact Puzzle,Toys,42.11,40.43,4,2.4,1424
+P0839,Advanced T-Shirt,Clothing,140.9,135.26,4,3.9,6989
+P0840,Premium Face Wash,Beauty,51.6,35.09,32,2.1,3951
+P0841,Lightweight Novel,Books,20.01,15.81,21,2.3,9665
+P0842,Durable Cookbook,Books,14.24,8.83,38,4.8,3765
+P0843,Durable Tablet,Electronics,1493.62,1165.02,22,1.8,8319
+P0844,Advanced Novel,Books,38.79,31.42,19,2.1,6481
+P0845,Advanced Camera,Electronics,1888.42,1133.05,40,4.9,6361
+P0846,Premium Bicycle,Sports,236.06,214.81,9,1.7,517
+P0847,Affordable Dress,Clothing,86.69,63.28,27,2.6,1988
+P0848,Affordable Dumbbell,Sports,111.11,90.0,19,2.7,3802
+P0849,Lightweight Perfume,Beauty,45.42,42.69,6,2.1,6241
+P0850,Compact T-Shirt,Clothing,77.63,65.99,15,3.5,6309
+P0851,Eco-friendly Sweater,Clothing,145.6,90.27,38,1.7,1518
+P0852,Advanced Board Game,Toys,95.39,70.59,26,2.7,2195
+P0853,Stylish Headphones,Electronics,1238.18,1002.93,19,1.4,2849
+P0854,Compact Dumbbell,Sports,357.82,339.93,5,2.0,3849
+P0855,Durable Tent,Sports,236.33,163.07,31,3.4,4195
+P0856,Stylish Yoga Mat,Sports,139.77,138.37,1,4.5,9280
+P0857,Premium Toaster,Home & Kitchen,48.36,36.75,24,1.6,4757
+P0858,Affordable Biography,Books,47.26,37.81,20,1.8,1813
+P0859,Amazing Biography,Books,33.13,23.52,29,3.7,8475
+P0860,Compact Pan,Home & Kitchen,193.83,188.02,3,4.7,7304
+P0861,Advanced Lipstick,Beauty,40.42,40.42,0,1.9,2093
+P0862,Ergonomic Dress,Clothing,36.4,25.12,31,1.9,5285
+P0863,Advanced Headphones,Electronics,293.6,217.26,26,2.7,3490
+P0864,Compact Action Figure,Toys,89.56,71.65,20,4.7,3676
+P0865,Premium Doll,Toys,53.71,39.75,26,1.0,859
+P0866,Eco-friendly Sweater,Clothing,95.86,57.52,40,2.0,8560
+P0867,Lightweight Puzzle,Toys,82.75,57.1,31,4.6,5119
+P0868,Premium Puzzle,Toys,28.6,27.46,4,1.3,4897
+P0869,Ergonomic Jeans,Clothing,18.75,18.38,2,1.9,1184
+P0870,Eco-friendly Guide,Books,35.28,29.28,17,2.5,1526
+P0871,Affordable Textbook,Books,42.73,26.92,37,2.5,5283
+P0872,Durable Dress,Clothing,140.58,123.71,12,4.1,1993
+P0873,Lightweight Toaster,Home & Kitchen,161.38,119.42,26,3.1,690
+P0874,Compact Face Wash,Beauty,63.49,53.33,16,4.7,7786
+P0875,Premium Face Wash,Beauty,46.76,34.13,27,4.7,4744
+P0876,Lightweight Pillow,Home & Kitchen,24.98,19.98,20,2.6,3641
+P0877,Ergonomic Laptop,Electronics,571.93,360.32,37,2.7,5738
+P0878,Lightweight Camera,Electronics,1878.93,1371.62,27,2.7,62
+P0879,Ergonomic Textbook,Books,18.16,16.34,10,3.4,6915
+P0880,Eco-friendly Biography,Books,31.56,29.67,6,1.2,8003
+P0881,Lightweight Perfume,Beauty,23.12,23.12,0,4.1,8312
+P0882,Compact Camera,Electronics,594.45,374.5,37,1.4,9116
+P0883,Premium Lamp,Home & Kitchen,35.09,31.93,9,4.8,241
+P0884,Amazing Pan,Home & Kitchen,266.28,215.69,19,2.8,5059
+P0885,Lightweight Guide,Books,18.01,17.47,3,4.7,2330
+P0886,Ergonomic Blender,Home & Kitchen,161.78,126.19,22,2.0,60
+P0887,Affordable Bicycle,Sports,189.82,146.16,23,4.2,2591
+P0888,Amazing Doll,Toys,81.89,78.61,4,2.3,6121
+P0889,Amazing Jeans,Clothing,62.29,38.62,38,1.9,7024
+P0890,Premium Yoga Mat,Sports,69.23,63.69,8,1.3,2594
+P0891,Stylish Blender,Home & Kitchen,114.43,68.66,40,4.4,86
+P0892,Amazing Yoga Mat,Sports,422.2,329.32,22,2.8,6968
+P0893,Amazing Pillow,Home & Kitchen,18.78,17.28,8,1.6,1700
+P0894,Eco-friendly Toaster,Home & Kitchen,132.16,91.19,31,3.8,1647
+P0895,Durable Lipstick,Beauty,16.46,13.83,16,4.0,596
+P0896,Affordable Pan,Home & Kitchen,219.84,208.85,5,4.2,4757
+P0897,Premium Lamp,Home & Kitchen,169.29,120.2,29,1.1,7081
+P0898,Stylish Novel,Books,44.67,40.65,9,3.5,8306
+P0899,Lightweight Guide,Books,15.01,13.81,8,1.8,7178
+P0900,Eco-friendly Dumbbell,Sports,137.77,112.97,18,2.3,3453
+P0901,Amazing Shampoo,Beauty,77.11,71.71,7,4.9,8328
+P0902,Affordable Dress,Clothing,68.21,46.38,32,3.2,6318
+P0903,Lightweight Pan,Home & Kitchen,229.77,165.43,28,3.0,5618
+P0904,Compact Moisturizer,Beauty,47.36,47.36,0,3.5,238
+P0905,Stylish Toaster,Home & Kitchen,47.89,34.48,28,2.8,4951
+P0906,Compact T-Shirt,Clothing,106.89,100.48,6,1.5,5126
+P0907,Durable Camera,Electronics,1568.67,972.58,38,2.7,1776
+P0908,Amazing Moisturizer,Beauty,52.02,39.54,24,3.7,7374
+P0909,Premium Novel,Books,44.85,30.95,31,3.9,9359
+P0910,Amazing Tent,Sports,24.79,18.1,27,3.8,3904
+P0911,Amazing Dumbbell,Sports,243.23,192.15,21,4.4,9579
+P0912,Amazing Doll,Toys,36.69,22.01,40,3.1,4434
+P0913,Compact Lamp,Home & Kitchen,248.87,149.32,40,4.5,4994
+P0914,Amazing Cookbook,Books,5.6,3.98,29,3.6,6801
+P0915,Advanced Dumbbell,Sports,452.85,448.32,1,1.3,2581
+P0916,Ergonomic Lipstick,Beauty,42.51,25.93,39,4.9,8923
+P0917,Ergonomic Bicycle,Sports,281.88,233.96,17,2.5,2604
+P0918,Advanced Cookbook,Books,49.51,40.1,19,5.0,634
+P0919,Lightweight Board Game,Toys,9.07,8.89,2,1.9,8397
+P0920,Advanced Pillow,Home & Kitchen,121.17,117.53,3,2.9,6003
+P0921,Lightweight Camera,Electronics,186.11,130.28,30,3.8,8026
+P0922,Eco-friendly Doll,Toys,41.03,40.62,1,3.6,670
+P0923,Affordable Yoga Mat,Sports,406.16,349.3,14,1.2,5255
+P0924,Durable Dress,Clothing,69.65,44.58,36,3.1,2854
+P0925,Durable Sweater,Clothing,104.85,88.07,16,1.1,5330
+P0926,Advanced Guide,Books,32.92,23.7,28,2.5,3163
+P0927,Lightweight Guide,Books,13.77,10.05,27,2.6,990
+P0928,Compact Biography,Books,31.87,23.9,25,4.6,5876
+P0929,Eco-friendly Perfume,Beauty,53.53,47.64,11,2.9,3340
+P0930,Lightweight Tablet,Electronics,1454.28,1236.14,15,1.8,5944
+P0931,Lightweight Lamp,Home & Kitchen,83.83,82.99,1,2.7,6859
+P0932,Durable Cookbook,Books,37.6,33.84,10,1.8,3801
+P0933,Compact Jacket,Clothing,107.46,95.64,11,2.8,4886
+P0934,Premium Doll,Toys,67.65,46.68,31,2.7,4334
+P0935,Stylish Shampoo,Beauty,53.85,52.77,2,3.5,6111
+P0936,Compact Yoga Mat,Sports,111.64,98.24,12,3.6,7957
+P0937,Durable Dress,Clothing,18.84,16.2,14,4.3,7647
+P0938,Amazing Yoga Mat,Sports,385.21,365.95,5,4.1,3940
+P0939,Ergonomic Textbook,Books,38.65,26.28,32,2.7,8960
+P0940,Affordable Cookbook,Books,25.88,20.45,21,1.1,4500
+P0941,Stylish Lipstick,Beauty,71.97,61.89,14,3.2,3191
+P0942,Compact Smartphone,Electronics,1730.43,1643.91,5,2.7,365
+P0943,Premium Doll,Toys,89.37,54.52,39,3.9,4172
+P0944,Ergonomic Cookbook,Books,42.14,41.72,1,4.0,1205
+P0945,Compact Lamp,Home & Kitchen,216.45,136.36,37,1.4,9867
+P0946,Advanced Sweater,Clothing,55.73,39.01,30,4.2,1474
+P0947,Lightweight Pillow,Home & Kitchen,299.32,197.55,34,3.3,6396
+P0948,Advanced Jacket,Clothing,54.53,35.99,34,1.1,2964
+P0949,Affordable Tent,Sports,396.19,356.57,10,1.1,6644
+P0950,Affordable Headphones,Electronics,540.83,340.72,37,1.1,919
+P0951,Stylish Biography,Books,33.07,22.82,31,2.2,3839
+P0952,Amazing Lamp,Home & Kitchen,191.56,126.43,34,4.8,4804
+P0953,Compact Moisturizer,Beauty,70.24,63.92,9,2.6,67
+P0954,Advanced Camera,Electronics,1982.29,1625.48,18,2.8,572
+P0955,Ergonomic Tent,Sports,206.83,167.53,19,3.3,6039
+P0956,Eco-friendly Jeans,Clothing,63.08,42.26,33,2.4,7876
+P0957,Compact Sweater,Clothing,98.63,94.68,4,5.0,2827
+P0958,Compact Tent,Sports,257.19,208.32,19,4.8,9229
+P0959,Stylish Bicycle,Sports,45.61,41.05,10,4.3,3226
+P0960,Affordable Perfume,Beauty,56.78,47.13,17,1.4,9290
+P0961,Eco-friendly Pillow,Home & Kitchen,62.7,60.19,4,1.2,570
+P0962,Eco-friendly Textbook,Books,36.37,21.82,40,1.3,917
+P0963,Eco-friendly Lamp,Home & Kitchen,59.52,55.95,6,3.4,1678
+P0964,Amazing Car,Toys,24.4,19.28,21,2.8,7086
+P0965,Premium Laptop,Electronics,960.53,835.66,13,1.2,4529
+P0966,Amazing Perfume,Beauty,64.1,55.13,14,4.4,1141
+P0967,Compact Novel,Books,35.86,22.59,37,3.1,3255
+P0968,Eco-friendly Action Figure,Toys,95.59,84.12,12,1.6,8996
+P0969,Lightweight Guide,Books,42.52,42.09,1,4.7,9802
+P0970,Amazing Dress,Clothing,93.0,56.73,39,3.4,7175
+P0971,Ergonomic Doll,Toys,11.32,8.49,25,1.3,4735
+P0972,Affordable Action Figure,Toys,63.55,54.02,15,3.8,5866
+P0973,Lightweight Camera,Electronics,501.34,370.99,26,3.9,6231
+P0974,Amazing Blender,Home & Kitchen,267.11,245.74,8,5.0,2259
+P0975,Advanced Soccer Ball,Sports,123.79,103.98,16,3.5,6774
+P0976,Amazing Dress,Clothing,96.66,83.13,14,4.4,3805
+P0977,Durable Moisturizer,Beauty,17.21,10.67,38,2.7,3856
+P0978,Premium Camera,Electronics,1719.84,1221.09,29,2.2,4589
+P0979,Compact Cookbook,Books,22.35,21.01,6,1.8,8954
+P0980,Lightweight Bicycle,Sports,245.17,154.46,37,4.8,6628
+P0981,Stylish Lipstick,Beauty,46.15,29.54,36,4.0,8775
+P0982,Durable Shampoo,Beauty,39.66,30.93,22,4.2,8301
+P0983,Durable Sweater,Clothing,98.28,70.76,28,1.9,9275
+P0984,Compact Dumbbell,Sports,416.78,304.25,27,2.4,8828
+P0985,Premium T-Shirt,Clothing,52.35,34.03,35,1.8,5457
+P0986,Durable Tablet,Electronics,751.03,578.29,23,1.6,7542
+P0987,Lightweight Pan,Home & Kitchen,216.4,149.32,31,1.6,1289
+P0988,Amazing Smartphone,Electronics,1060.47,816.56,23,3.5,3183
+P0989,Affordable Tablet,Electronics,431.06,336.23,22,1.3,3318
+P0990,Stylish Car,Toys,98.5,65.99,33,2.8,5208
+P0991,Premium Face Wash,Beauty,49.35,43.92,11,4.1,5518
+P0992,Compact Smartphone,Electronics,478.57,411.57,14,3.2,4774
+P0993,Ergonomic Perfume,Beauty,48.5,33.46,31,4.6,7124
+P0994,Amazing T-Shirt,Clothing,78.51,66.73,15,3.6,3915
+P0995,Advanced Car,Toys,50.9,41.74,18,3.6,226
+P0996,Amazing Dumbbell,Sports,403.86,343.28,15,2.3,186
+P0997,Stylish Shampoo,Beauty,62.9,38.37,39,1.8,9040
+P0998,Ergonomic Cookbook,Books,41.8,39.71,5,3.3,1881
+P0999,Durable Shampoo,Beauty,70.61,68.49,3,4.9,1695
+P1000,Eco-friendly Dress,Clothing,49.12,30.95,37,4.4,52
